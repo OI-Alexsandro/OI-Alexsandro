@@ -12,19 +12,3 @@
   </div>
 
 
-### 🖥️ Tecnologias e Ferramentas: 
- <div align="left" >
-<a href=https://www.instagram.com/morais_alexx/  >
-  <img src="https://skillicons.dev/icons?i=instagram"/> 
-
-<a href=https://www.linkedin.com/in/alexsandro-morais-andrade-thiengo-12b66aa2/ >
-  <img src="https://skillicons.dev/icons?i=linkedin" /> 
-
- <div align="left" >
-<a href=https://github.com/OI-Alexsandro  >
-  <img src="https://skillicons.dev/icons?i=github" /> 
-
-  <div align="left" >
-<a href=https://www.instagram.com/morais_alexx/  >
-  <img src="https://skillicons.dev/icons?i=discord" /> 
-</a>
