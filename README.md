@@ -8,7 +8,6 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nodejs,figma,github,discord,linkedin,instagram" />
 </a>
 
-    <br />
 
   </div>
 
